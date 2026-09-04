@@ -10,6 +10,11 @@
 
 Dual-deck vinyl scratch emulator audio plugin and standalone instrument by **Resonaura**. Features realistic vinyl touch physics, high-order Hermite interpolation, dynamic crossfading, Gross Beat-inspired time manipulation envelopes, sample loading, and comprehensive MIDI Learn.
 
+
+<p align="center">
+  <img src="media/scratcher.gif" width="800" alt="Scratcher Turntable Scratch Emulator" />
+</p>
+
 ---
 
 ## 🎧 Supported Formats
